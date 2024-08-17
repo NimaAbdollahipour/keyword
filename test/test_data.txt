@@ -1,3 +1,9 @@
+correct
+incorrect
+correctly
+alternative
+fuzzy
+busy
 acommodate
 acknolege
 argumnt

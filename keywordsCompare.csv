@@ -1,0 +1,6 @@
+custom, keyword-extractor from npm
+|"internet,connection,slow,high-speed,plan,running,slower,expected,diagnose,issue,suggest,ways,improve,speed"|, |"internet,connection,slow,high-speed,plan,internet,connection,running,slower,expected,diagnose,issue,suggest,ways,improve,speed"|
+|"reset,router,modem,I’m,experiencing,connectivity,issues,resetting,provide,detailed,step-by-step,instructions,properly,devices"|, |"reset,router,modem,im,experiencing,connectivity,issues,resetting,router,modem,provide,detailed,step-by-step,instructions,properly,reset,devices"|
+|"Wi-Fi,signal,weak,areas,home,rooms,house,making,difficult,stay,connected,improve,coverage,strength"|, |"wi-fi,signal,weak,areas,home,rooms,house,weak,wi-fi,signal,making,difficult,stay,connected,improve,wi-fi,coverage,signal,strength,home"|
+|"upgrade,internet,plan,I’m,interested,upgrading,current,higher,speed,package,explain,process,options,potential,costs,involved"|, |"upgrade,internet,plan,im,interested,upgrading,current,internet,plan,higher,speed,package,explain,process,options,potential,costs,involved,upgrading"|
+|"internet,bill,higher,expected,month,usual,don’t,understand,review,charges,identify,additional,fees,explain,reason,increase"|, |"internet,bill,higher,expected,month,internet,bill,month,higher,usual,dont,understand,review,charges,identify,additional,fees,explain,reason,increase"|
